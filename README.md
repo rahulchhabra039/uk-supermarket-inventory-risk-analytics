@@ -113,7 +113,6 @@ The `Lead Time Reduction` table is disconnected from the main model and is used 
 05_fabric_python_notebooks
 06_sql_analytics_endpoint
 07_power_bi
-08_architecture
 09_documentation
 ```
 
@@ -123,7 +122,6 @@ The `Lead Time Reduction` table is disconnected from the main model and is used 
 - SQL queries: `06_sql_analytics_endpoint/sql`
 - Power BI file: `07_power_bi/report`
 - DAX measures: `07_power_bi/dax_measures/dax_measures.md`
-- Project summary: `09_documentation/project_summary.md`
 - Challenges and solutions: `09_documentation/challenges_and_solutions.md`
 
 ## Security note
