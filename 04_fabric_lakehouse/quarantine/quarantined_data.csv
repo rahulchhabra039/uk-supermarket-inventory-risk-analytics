@@ -1,0 +1,45 @@
+Date,Region,Store_ID,Category,Opening_Stock,Deliveries,Daily_Sales,Closing_Stock,Lead_Time_Days,Supplier_Status,Stock_Status
+2025-01-02,Scotland,UK-SCO-60,Fresh Produce,71,111,647,170,2,On-Time,Healthy
+2025-02-21,Scotland,UK-SCO-79,Bakery,116,75,650,43,5,Delayed,Critical
+2025-02-23,North West,UK-NOR-87,Fresh Produce,312,34,523,1,3,On-Time,Critical
+2025-02-24,West Midlands,UK-WES-56,Festive,386,190,722,404,3,On-Time,Healthy
+2025-03-19,Yorkshire,UK-YOR-12,Festive,253,109,742,306,2,On-Time,Healthy
+2025-03-25,Scotland,UK-SCO-84,Festive,143,145,576,54,4,On-Time,Critical
+2025-03-29,North West,UK-NOR-46,Bakery,184,8,485,179,1,On-Time,Healthy
+2025-04-02,London,UK-LON-52,Meat,95,140,455,82,5,On-Time,Warning
+2025-04-05,North West,UK-NOR-16,Bakery,466,168,983,474,4,Delayed,Healthy
+2025-04-18,Yorkshire,UK-YOR-97,Frozen,226,118,762,258,3,On-Time,Healthy
+2025-04-26,West Midlands,UK-WES-24,Meat,140,106,487,180,2,On-Time,Healthy
+2025-04-28,London,UK-LON-95,Dairy,280,91,655,147,3,On-Time,Warning
+2025-05-03,Scotland,UK-SCO-72,Meat,370,87,708,174,2,Cancelled,Healthy
+2025-05-11,London,UK-LON-89,Fresh Produce,216,84,490,279,4,Delayed,Healthy
+2025-05-12,London,UK-LON-32,Frozen,261,54,699,78,5,On-Time,Warning
+2025-06-08,North West,UK-NOR-99,Bakery,355,100,789,337,1,On-Time,Healthy
+2025-06-09,London,UK-LON-85,Festive,328,8,469,159,6,On-Time,Warning
+2025-06-18,London,UK-LON-89,Dairy,272,23,545,271,3,Delayed,Healthy
+2025-06-24,Yorkshire,UK-YOR-28,Fresh Produce,277,13,459,222,5,On-Time,Healthy
+2025-07-09,West Midlands,UK-WES-35,Fresh Produce,137,144,468,104,2,Cancelled,Warning
+2025-07-14,London,UK-LON-28,Frozen,278,122,532,174,5,On-Time,Healthy
+2025-07-24,West Midlands,UK-WES-16,Frozen,495,160,1118,71,7,On-Time,Warning
+2025-07-25,Scotland,UK-SCO-71,Festive,443,177,1024,380,2,Delayed,Healthy
+2025-08-03,Scotland,UK-SCO-58,Festive,233,179,791,221,3,On-Time,Healthy
+2025-08-11,London,UK-LON-63,Frozen,400,142,675,354,1,On-Time,Healthy
+2025-08-24,North West,UK-NOR-71,Dairy,80,83,594,110,3,Cancelled,Warning
+2025-08-25,Scotland,UK-SCO-49,Fresh Produce,366,163,954,51,4,On-Time,Warning
+2025-08-31,London,UK-LON-30,Dairy,454,84,1006,136,4,On-Time,Warning
+2025-09-07,North West,UK-NOR-16,Dairy,310,159,645,85,7,Cancelled,Warning
+2025-09-11,London,UK-LON-54,Dairy,349,86,734,245,1,On-Time,Healthy
+2025-09-20,Scotland,UK-SCO-49,Festive,136,166,501,223,1,Cancelled,Healthy
+2025-10-09,Scotland,UK-SCO-22,Dairy,235,173,706,212,2,On-Time,Healthy
+2025-10-15,North West,UK-NOR-96,Frozen,152,177,667,90,7,On-Time,Warning
+2025-10-15,London,UK-LON-56,Fresh Produce,106,14,275,90,5,On-Time,Warning
+2025-10-23,North West,UK-NOR-84,Fresh Produce,434,59,684,438,4,On-Time,Healthy
+2025-12-04,Yorkshire,UK-YOR-97,Fresh Produce,411,43,797,76,1,On-Time,Warning
+2025-12-08,Yorkshire,UK-YOR-81,Bakery,465,7,620,298,1,Delayed,Healthy
+2025-12-17,North West,UK-NOR-78,Fresh Produce,84,102,552,51,7,Delayed,Warning
+2025-12-20,North West,UK-NOR-23,Bakery,183,110,707,135,1,Cancelled,Warning
+2025-12-20,Scotland,UK-SCO-95,Festive,147,27,479,124,4,On-Time,Warning
+2025-12-21,North West,UK-NOR-68,Meat,143,117,636,201,2,Cancelled,Healthy
+2025-12-22,West Midlands,UK-WES-66,Frozen,403,26,701,390,5,Delayed,Healthy
+2025-12-24,West Midlands,UK-WES-78,Meat,313,141,621,374,3,Delayed,Healthy
+2025-12-25,London,UK-LON-29,Frozen,317,161,805,4,1,On-Time,Critical
